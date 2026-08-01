@@ -320,3 +320,12 @@ You can apply the framework in this guide to any lead-scoring process: define a 
 If you prefer a fuller ready-made option, we also sell the [AI Lead Machine paid edition](https://automationworkflows.io/product/ai-lead-machine-auto-score-qualify-new-leads-with-ai-n8n-workflow). It is our product; the link is not an independent recommendation. Choose it for convenience, not because AI scoring is always the right approach.
 
 The best scoring system is the simplest one that consistently improves a real sales decision and can prove it with outcomes.
+
+## Related
+
+Other free workflows and guides we publish:
+
+- [n8n-ai-lead-scoring](https://github.com/willowridge1234/n8n-ai-lead-scoring) — Free workflow — score scraped leads against your ICP, log to Google Sheets
+- [n8n-review-intent-lead-scoring](https://github.com/willowridge1234/n8n-review-intent-lead-scoring) — Free workflow — score G2/Capterra reviewers by switching intent
+- [n8n-tradeshow-exhibitor-lead-scoring](https://github.com/willowridge1234/n8n-tradeshow-exhibitor-lead-scoring) — Free workflow — score trade-show exhibitors against your ICP
+- [chamber-association-lead-lists](https://github.com/willowridge1234/chamber-association-lead-lists) — Guide — building B2B lead lists from chamber & association directories
